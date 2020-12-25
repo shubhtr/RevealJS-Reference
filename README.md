@@ -1,7 +1,7 @@
 # RevealJS Reference
 ## by Shubhrendu Tripathi
 
-###Installation
+### Installation
 
 npm install reveal.js
 
