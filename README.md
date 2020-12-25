@@ -3,6 +3,6 @@
 
 ### Installation
 
-    npm install reveal.js
+> npm install reveal.js
 
 
