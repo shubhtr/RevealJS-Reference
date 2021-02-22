@@ -6,3 +6,6 @@
 > npm install reveal.js
 
 
+# References
+* https://revealjs.com/
+
